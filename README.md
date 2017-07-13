@@ -55,3 +55,5 @@ vi stack_example_llvm.s
 ```
 
 ![disassemble code](disassemble_code.png)
+
+Enjoy doing it!
